@@ -5,6 +5,11 @@ interface project {
 }
 export const projects: project[] = [
     {
+        name:"nebula",
+        link:"https://nebula-neon-six.vercel.app/",
+        githublink:"https://github.com/ibada13/Nebula",
+    },
+    {
         name:"indie-brew",
         link:"https://indie-brew-9laco7hj9-ibada13s-projects.vercel.app/",
         githublink:"https://github.com/ibada13/indie-brew",
